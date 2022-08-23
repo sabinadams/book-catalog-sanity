@@ -1,4 +1,4 @@
-export default {
+export const book = {
   name: "book",
   type: "document",
   title: "Book",
